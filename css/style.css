@@ -1,0 +1,63 @@
+h1{
+  text-align: center;
+	color: #000000; font-family:"impact", fantasy; font-size: 54px; font-weight: 500; line-height: 58px; margin: 0 0 58px; animation: ;
+  text-shadow: 0px 4px #eeff41;
+
+ background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(45,253,249,1) 69%);
+
+ padding: 70px;
+}
+
+.H2 {
+	font-size: 30px;
+  color:  margin-top: 0px;
+  margin-bottom: 50px;
+  margin-top: 0px;
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 3rem;
+  letter-spacing: 0.15rem;
+  text-transform: uppercase;
+  color: #fff;
+  text-shadow: -4px 4px #7e57c2,
+               -8px 8px #2196f3,
+               -12px 12px #26c6da,
+               -16px 16px #43a047,
+               -20px 20px #eeff41,
+               -24px 24px #f9a825,
+               -28px 28px #ff5722;
+              
+}
+
+
+html { 
+  background: black; no-repeat 
+    center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+img{
+  width: 270px;
+  border-radius: 400px;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 50px;
+
+}
+
+.réseaux{
+
+	color:  lightcoral;
+  text-align: center;
+margin: 40;
+
+} 
+
+}
